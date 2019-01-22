@@ -7,7 +7,7 @@
 
 /*topBar*/
 .topBar{height:31px; background-color:#F7F7F7; line-height:31px;}
-.collection{background: url(../Documents/img/icon/collection.png) left center no-repeat; padding-left:19px; font-weight:bold;}
+.collection{background: url(../img/icon/collection.png) left center no-repeat; padding-left:19px; font-weight:bold;}
 .topBar  a:hover{color:red;}
 
 /*logoBar*/
@@ -21,14 +21,15 @@
 
 /*Cart*/
 .Cart{width:100px; height:35px; background-color: #FF8C00; margin-top:23px; margin-right:59px;}
-.shopText{font:14px/35px "Helvetica";  color:#FFF; height:100%; width:87px;  border-right:#E27A00 solid 1px; background:url(../Documents//img/icon/cart.png) 10px center no-repeat; text-indent:40px;}
-.shopNume{width:27px; height:35px; color:#FFF; border-left:#FF9C01 solid 1px; background:url(../Documents/img/icon/sj.png) 33px center no-repeat; font:14px/35px "Helvetica"; text-align: left; 
+.shopText{font:14px/35px "Helvetica";  color:#FFF; height:100%; width:87px;  border-right:#E27A00 solid 1px; background:url(../
+        s//img/icon/cart.png) 10px center no-repeat; text-indent:40px;}
+.shopNume{width:27px; height:35px; color:#FFF; border-left:#FF9C01 solid 1px; background:url(../img/icon/sj.png) 33px center no-repeat; font:14px/35px "Helvetica"; text-align: left; 
         padding-right:20px;}
 /*navBox*/
 .navBox{height:35px; background-color: #1269C0; color:#FFF; } /*  35px  */
 .shopClass{width:190px;   }
 .shopClass h3{text-align: center; line-height:35px;}
-.shopClass i{width:11px; height:7px; overflow: hidden; background:url(../Documents/img/icon/sj.png) left center no-repeat;display:inline-block; margin-left:11px;}
+.shopClass i{width:11px; height:7px; overflow: hidden; background:url(../img/icon/sj.png) left center no-repeat;display:inline-block; margin-left:11px;}
 .nav, .shopClass{font-family: "Helvetica"; }
 .nav  {line-height: 35px;}
 .nav  li{float:left;}
