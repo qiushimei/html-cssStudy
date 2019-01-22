@@ -1,0 +1,36 @@
+@charset "utf-08";
+
+/*public*/
+.comWidth{width:1200px; margin-left:auto; margin-right:auto;}
+.leftArea{float:left;}
+.rightArea{float:right;}
+
+/*topBar*/
+.topBar{height:31px; background-color:#F7F7F7; line-height:31px;}
+.collection{background: url(../Documents/img/icon/collection.png) left center no-repeat; padding-left:19px; font-weight:bold;}
+.topBar  a:hover{color:red;}
+
+/*logoBar*/
+.logoBar {height:90px; background-color:#1D7AD9; padding-top:31px;margin-top:31px;}
+.logo {padding-left: 41px; padding-top:13px;}
+
+/*search*/
+.search_box{widows: 430px; padding-top:23px;padding-left: 185px;}
+.search_text{width:350px;height: 35px;padding: 0 5px; line-height:35px\9; background-color:#FFF;}
+.search_btn{width:70px; height:35px; font-size: 14px; font-family: "Helvetica"; background-color: #FF8C00; color:#FFF;text-indent: 15%;}
+
+/*Cart*/
+.Cart{width:100px; height:35px; background-color: #FF8C00; margin-top:23px; margin-right:59px;}
+.shopText{font:14px/35px "Helvetica";  color:#FFF; height:100%; width:87px;  border-right:#E27A00 solid 1px; background:url(../Documents//img/icon/cart.png) 10px center no-repeat; text-indent:40px;}
+.shopNume{width:27px; height:35px; color:#FFF; border-left:#FF9C01 solid 1px; background:url(../Documents/img/icon/sj.png) 33px center no-repeat; font:14px/35px "Helvetica"; text-align: left; 
+        padding-right:20px;}
+/*navBox*/
+.navBox{height:35px; background-color: #1269C0; color:#FFF; } /*  35px  */
+.shopClass{width:190px;   }
+.shopClass h3{text-align: center; line-height:35px;}
+.shopClass i{width:11px; height:7px; overflow: hidden; background:url(../Documents/img/icon/sj.png) left center no-repeat;display:inline-block; margin-left:11px;}
+.nav, .shopClass{font-family: "Helvetica"; }
+.nav  {line-height: 35px;}
+.nav  li{float:left;}
+.nav a{height:35px; display:inline-block; padding: 0 35px; color:#FFF;}
+.nav  .active{background-color:#4593FD;}
